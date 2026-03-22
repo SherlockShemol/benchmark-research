@@ -1,0 +1,20 @@
+# Cloned benchmark repositories
+repos/
+
+# Cursor (local editor config)
+.cursor/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# JetBrains
+.idea/
